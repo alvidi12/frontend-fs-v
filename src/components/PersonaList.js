@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
 import axios from "axios";
-import PersonasForm from "./PersonaForm";
+import PersonaForm from "./PersonaForm";
 
 const API_URL= "https://backend-fs-v-r6gs.onrender.com/api/personas"
 
